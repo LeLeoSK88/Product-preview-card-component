@@ -75,7 +75,6 @@ body{
 
 .butt{
     background-color: var(--Dark-cyan);
-    border: 1px solid var(--Verydarkblue);
     padding: 15px;
     border-radius: 10px;
     width: 100%;
